@@ -1,0 +1,3 @@
+Crie um arquivo que tenha seu nome <nome>.txt 
+Coloque algum texto dentro dele (o que você preferir)
+Envie o arquivo para o repositório.
